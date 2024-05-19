@@ -1,2 +1,2 @@
 # cursoprueba
-este es un modulo de prueba
+esta es una prueba de como clonar de github a nuestra pc  trabajar de local
